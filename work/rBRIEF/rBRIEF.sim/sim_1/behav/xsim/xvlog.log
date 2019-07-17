@@ -1,0 +1,60 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Angle.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Angle
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Angle_LUT_Cos_Sin.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Angle_LUT_Cos_Sin
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Atan2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Atan2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Atan2_Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Atan2_Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Atan2_Multiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Atan2_Multiplier
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Atan2_Select.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Atan2_Select
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Centroid.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Centroid
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Centroid_Adder1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Centroid_Adder1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Centroid_Adder2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Centroid_Adder2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Centroid_Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Centroid_Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Centroid_Multiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Centroid_Multiplier
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Delay_Corner_Signal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Delay_Corner_Signal
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Delay_D.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Delay_D
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Delay_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Delay_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Generator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Generator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Generator_Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Generator_Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/MultX_connect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MultX_connect
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/MultY_connect.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MultY_connect
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/PointDescriptor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PointDescriptor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/RBRIEF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RBRIEF
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Rotation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Rotation
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Rotation_AddSubVec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Rotation_AddSubVec
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Rotation_Add_Substract.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Rotation_Add_Substract
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Rotation_Multiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Rotation_Multiplier
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Rotation_VecSplit_Mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Rotation_VecSplit_Mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/RowBuffer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RowBuffer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/ShiftRegister.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ShiftRegister
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/rtl/Valid_Shift_Register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Valid_Shift_Register
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/tb/Top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_tb

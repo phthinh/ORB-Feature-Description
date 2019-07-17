@@ -1,0 +1,60 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 26c7fc2f0c294638af8f38da27a78529 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Top_tb_behav xil_defaultlib.Top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/HP/Documents/GitHub/ORB-Feature-Description/work/rBRIEF/rBRIEF.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Delay_reg(WIDTH=8)
+Compiling module xil_defaultlib.Delay_D(D=639)
+Compiling module xil_defaultlib.RowBuffer
+Compiling module xil_defaultlib.Delay_D(WIDTH=1,D=11504,B=14)
+Compiling module xil_defaultlib.Delay_Corner_Signal(DELAY=11504)
+Compiling module xil_defaultlib.Centroid_Controller
+Compiling module xil_defaultlib.Valid_Shift_Register(D=43)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=10)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=12)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=14)
+Compiling module xil_defaultlib.Centroid_Adder1
+Compiling module xil_defaultlib.ShiftRegister(WIDTH=14,D=36)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=19)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=22)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=15)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=20)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=9)
+Compiling module xil_defaultlib.Centroid_Multiplier
+Compiling module xil_defaultlib.Delay_reg(WIDTH=17)
+Compiling module xil_defaultlib.Centroid_Adder2
+Compiling module xil_defaultlib.ShiftRegister(WIDTH=17)
+Compiling module xil_defaultlib.Centroid(BW_OUT_OPTIMIZATION=12)
+Compiling module xil_defaultlib.Valid_Shift_Register(D=7,B=3)
+Compiling module xil_defaultlib.Atan2_Multiplier(BIT_WIDTH=11,NO...
+Compiling module xil_defaultlib.Atan2_Select(BW_INPUT=22)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=25)
+Compiling module xil_defaultlib.Atan2_Decoder(WIDTH=25)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=5)
+Compiling module xil_defaultlib.Angle_LUT_Cos_Sin(BW_OUT=7)
+Compiling module xil_defaultlib.Delay_reg(WIDTH=7)
+Compiling module xil_defaultlib.Atan2(BIT_WIDTH=11)
+Compiling module xil_defaultlib.Angle
+Compiling module xil_defaultlib.Delay_reg(WIDTH=11)
+Compiling module xil_defaultlib.Rotation_Multiplier(BW_XCOS=11,B...
+Compiling module xil_defaultlib.MultX_connect(BW_XCOS=11)
+Compiling module xil_defaultlib.MultY_connect(BW_XCOS=11)
+Compiling module xil_defaultlib.Rotation_VecSplit_Mux(BW_XCOS=11...
+Compiling module xil_defaultlib.Rotation_Add_Substract(BW_XCOS=1...
+Compiling module xil_defaultlib.Rotation_AddSubVec(BW_OUT=7)
+Compiling module xil_defaultlib.Rotation(BW_TRIGONOMETRY=7)
+Compiling module xil_defaultlib.Delay_D(WIDTH=1,D=318)
+Compiling module xil_defaultlib.Generator_Controller
+Compiling module xil_defaultlib.Delay_reg(WIDTH=6)
+Compiling module xil_defaultlib.PointDescriptor(BW_IN=7,LENGTH_I...
+Compiling module xil_defaultlib.Generator(WIDTH_RX=3584)
+Compiling module xil_defaultlib.RBRIEF_default
+Compiling module xil_defaultlib.Top
+Compiling module xil_defaultlib.Top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Top_tb_behav
